@@ -70,10 +70,20 @@ Backend developer passionate about building scalable APIs, backend systems, and 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
+<a href="https://p-dhatchinamoorthy.github.io/P-DhatchinaMoorthy/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome">
+</a>
+
 </p>
 
 ---
 
 <p align="center">
 ⭐ Always open to collaborate on <b>backend, AI, and scalable software projects</b>.
+</p>
+
+---
+
+<p align="center">
+Made with ❤️ by <b>Datchu🩵</b>
 </p>
