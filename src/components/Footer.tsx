@@ -9,8 +9,8 @@ const Footer = ({ isDarkMode }: FooterProps) => {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { icon: Github, href: "https://github.com/DhatchinaMoorthy", label: "GitHub" },
-    { icon: Linkedin, href: "https://linkedin.com/in/DhatchinaMoorthy", label: "LinkedIn" },
+    { icon: Github, href: "https://github.com/P-DhatchinaMoorthy", label: "GitHub" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/dhatchinamoorthy-p-716865245/", label: "LinkedIn" },
     { icon: Mail, href: "mailto:dhatchina1505@gmail.com", label: "Email" },
   ];
 

@@ -82,7 +82,7 @@ const Contact = ({ isDarkMode }: ContactProps) => {
 
   const socialLinks = [
     { icon: Github, href: "https://github.com/P-DhatchinaMoorthy", label: "GitHub" },
-    { icon: Linkedin, href: "https://linkedin.com/in/DhatchinaMoorthy", label: "LinkedIn" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/dhatchinamoorthy-p-716865245/", label: "LinkedIn" },
     { icon: null, href: "https://www.instagram.com/itsmemadjoker_datchu/", label: "Instagram" },
   ];
 

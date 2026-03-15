@@ -119,8 +119,8 @@ const Hero = ({ isDarkMode }: HeroProps) => {
           className="flex justify-center gap-6 mb-12"
         >
           {[
-            { icon: Github, href: "https://github.com/DhatchinaMoorthy", label: "GitHub" },
-            { icon: Linkedin, href: "https://linkedin.com/in/DhatchinaMoorthy", label: "LinkedIn" },
+            { icon: Github, href: "https://github.com/P-DhatchinaMoorthy", label: "GitHub" },
+            { icon: Linkedin, href: "https://www.linkedin.com/in/dhatchinamoorthy-p-716865245/", label: "LinkedIn" },
             { icon: Mail, href: "mailto:dhatchina1505@gmail.com", label: "Email" },
             { icon: null, href: "https://www.instagram.com/itsmemadjoker_datchu/", label: "Instagram" },
             { icon: MapPin, href: "#", label: "Chennai, India" },
