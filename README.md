@@ -81,10 +81,14 @@ https://p-dhatchinamoorthy.github.io/P-DhatchinaMoorthy/
 
 ---
 
-# 🐍 Contribution Snake
-
+# 🕹️ Mini Game — Block Bounce Ball
 <p align="center">
-<img src="https://raw.githubusercontent.com/p-dhatchinamoorthy/p-dhatchinamoorthy/output/github-snake-dark.svg" />
+<a href="https://p-dhatchinamoorthy.github.io/bounce-ball-game/">
+<img src="assets/bounce-game.gif" width="500"/>
+</a>
+</p>
+<p align="center">
+🎮 Click the GIF to play the game
 </p>
 
 ---
