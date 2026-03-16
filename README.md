@@ -1,77 +1,122 @@
-<h1 align="center">Hi 👋, I'm DhatchinaMoorthy</h1>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ✨ DhatchinaMoorthy — Python Backend Developer | GitHub Profile README
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">Software Developer | Backend Engineer | Python & API Development</h3>
-
+<!-- HEADER WAVE BANNER -->
 <p align="center">
-Backend developer passionate about building scalable APIs, backend systems, and AI-powered applications.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Hey%20there!%20I'm%20DhatchinaMoorthy%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Python%20Backend%20Developer%20%7C%20FastAPI%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" width="100%" />
 </p>
 
+<!-- ANIMATED TYPING -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;FastAPI+Developer;REST+API+Builder;Learning+AI+%26+LLM+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;FastAPI+%26+Flask+Developer;Machine+Learning+Enthusiast;Building+Scalable+Backend+Systems" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 - 🎓 MCA Graduate from **SRM Institute of Science & Technology**
-- 💻 Currently working as **Software Developer at a Startup**
-- ⚙️ Experienced in **FastAPI, Flask, REST APIs, and backend systems**
-- 🧠 Interested in **LLM-based applications and AI tools**
+- 💻 Backend Developer working with **Python**
+- ⚙️ Experienced in **FastAPI, Flask, REST APIs**
+- 🧠 Interested in **Machine Learning and AI**
 - 🐧 Comfortable working in **Linux environments**
-- 🚀 Passionate about **building scalable software solutions**
+- 🚀 Passionate about **building scalable backend systems**
+
+🌐 **My Portfolio**  
+https://p-dhatchinamoorthy.github.io/P-DhatchinaMoorthy/
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Languages & Tools
+# 🛠️ Tech Stack
+
+### 💻 Programming
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
-<img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
-<img src="https://skillicons.dev/icons?i=flask" height="50"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+### ⚙️ Backend
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+### 🧰 Tools & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
 
-## 🚀 Tech Stack
+# 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Flask-API-black?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-dhatchinamoorthy&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-dhatchinamoorthy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=p-dhatchinamoorthy&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=p-dhatchinamoorthy&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+# 🕹️ Mini Game — Block Bounce Ball
+
+<p align="center">
+<iframe 
+src="https://p-dhatchinamoorthy.github.io/bounce-ball-game/" 
+width="420" 
+height="520" 
+frameborder="0">
+</iframe>
+</p>
+
+<p align="center">
+Play the game in full screen 👇  
+https://p-dhatchinamoorthy.github.io/bounce-ball-game/
+</p>
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
 <a href="mailto:dhatchina1505@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dhatchinamoorthy-p-716865245/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://p-dhatchinamoorthy.github.io/P-DhatchinaMoorthy/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome">
+<img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -79,10 +124,13 @@ Backend developer passionate about building scalable APIs, backend systems, and 
 ---
 
 <p align="center">
-⭐ Always open to collaborate on <b>backend, AI, and scalable software projects</b>.
+⭐ Open to collaborate on Python Backend, AI, and scalable software projects
 </p>
 
----
+<!-- FOOTER
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer"/>
+</p> -->
 
 <p align="center">
 Made with ❤️ by <b>Datchu🩵</b>
