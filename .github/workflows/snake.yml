@@ -9,21 +9,20 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: p-dhatchinamoorthy
           outputs: |
-            dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: peaceiris/actions-gh-pages@v4
+      - name: Push snake animation
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
           publish_dir: dist
-          force_orphan: true
+          publish_branch: output
