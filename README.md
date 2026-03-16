@@ -1,13 +1,9 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     ✨ DhatchinaMoorthy — Python Backend Developer | GitHub Profile README
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
 <!-- HEADER WAVE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Hey%20there!%20I'm%20DhatchinaMoorthy%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Python%20Backend%20Developer%20%7C%20FastAPI%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Hey%20there!%20I'm%20DhatchinaMoorthy%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Python%20Backend%20Developer%20%7C%20FastAPI%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" width="100%" />
 </p>
 
-<!-- ANIMATED TYPING -->
+<!-- TYPING SVG -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;FastAPI+%26+Flask+Developer;Machine+Learning+Enthusiast;Building+Scalable+Backend+Systems" />
 </p>
@@ -19,11 +15,11 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 - 🎓 MCA Graduate from **SRM Institute of Science & Technology**
-- 💻 Backend Developer working with **Python**
+- 💻 Working on **Python Backend Development**
 - ⚙️ Experienced in **FastAPI, Flask, REST APIs**
-- 🧠 Interested in **Machine Learning and AI**
-- 🐧 Comfortable working in **Linux environments**
-- 🚀 Passionate about **building scalable backend systems**
+- 🧠 Learning **Machine Learning & AI applications**
+- 🐧 Comfortable with **Linux & backend environments**
+- 🚀 Interested in **building scalable software systems**
 
 🌐 **My Portfolio**  
 https://p-dhatchinamoorthy.github.io/P-DhatchinaMoorthy/
@@ -52,7 +48,7 @@ https://p-dhatchinamoorthy.github.io/P-DhatchinaMoorthy/
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
-### 🧰 Tools & DevOps
+### 🧰 Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
@@ -85,20 +81,10 @@ https://p-dhatchinamoorthy.github.io/P-DhatchinaMoorthy/
 
 ---
 
-# 🕹️ Mini Game — Block Bounce Ball
+# 🐍 Contribution Snake
 
 <p align="center">
-<iframe 
-src="https://p-dhatchinamoorthy.github.io/bounce-ball-game/" 
-width="420" 
-height="520" 
-frameborder="0">
-</iframe>
-</p>
-
-<p align="center">
-Play the game in full screen 👇  
-https://p-dhatchinamoorthy.github.io/bounce-ball-game/
+<img src="https://raw.githubusercontent.com/p-dhatchinamoorthy/p-dhatchinamoorthy/output/github-snake-dark.svg" />
 </p>
 
 ---
@@ -124,13 +110,14 @@ https://p-dhatchinamoorthy.github.io/bounce-ball-game/
 ---
 
 <p align="center">
-⭐ Open to collaborate on Python Backend, AI, and scalable software projects
+⭐ Open to collaborate on Backend, Python and AI projects
 </p>
 
-<!-- FOOTER
+<!-- FOOTER -->
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer"/>
-</p> -->
+</p>
 
 <p align="center">
 Made with ❤️ by <b>Datchu🩵</b>
