@@ -109,7 +109,7 @@ const Contact = ({ isDarkMode }: ContactProps) => {
     >
       <div className="max-w-6xl mx-auto">
         <motion.div ref={ref} variants={containerVariants} initial="hidden" animate={isInView ? "visible" : "hidden"} className="text-center mb-16">
-          <motion.h2 variants={itemVariants} className={`text-5xl font-bold mb-6 ${isDarkMode ? "text-orange-100" : "text-gray-900"}`}>
+          <motion.h2 variants={itemVariants} className={`text-3xl sm:text-5xl font-bold mb-6 ${isDarkMode ? "text-orange-100" : "text-gray-900"}`}>
             Let's{" "}
             <span className={`text-transparent bg-clip-text ${isDarkMode ? "bg-gradient-to-r from-orange-400 to-pink-400" : "bg-gradient-to-r from-teal-500 to-blue-600"}`}>
               Connect
@@ -121,7 +121,7 @@ const Contact = ({ isDarkMode }: ContactProps) => {
           </motion.p>
         </motion.div>
 
-        <div className="grid lg:grid-cols-2 gap-16">
+        <div className="grid lg:grid-cols-2 gap-8 lg:gap-16">
           <motion.div variants={containerVariants} initial="hidden" animate={isInView ? "visible" : "hidden"} className="space-y-8">
             <motion.div variants={itemVariants}>
               <h3 className={`text-3xl font-bold mb-8 ${isDarkMode ? "text-orange-100" : "text-gray-900"}`}>Get in Touch</h3>

@@ -88,9 +88,7 @@ const Resume = ({ isDarkMode }: ResumeProps) => {
         >
           <motion.h2
             variants={itemVariants}
-            className={`text-5xl font-bold mb-6 ${
-              isDarkMode ? "text-white" : "text-gray-900"
-            }`}
+            className={`text-3xl sm:text-5xl font-bold mb-6 ${isDarkMode ? "text-white" : "text-gray-900"}`}
           >
             Experience &{" "}
             <span className={`text-transparent bg-clip-text ${isDarkMode ? "bg-gradient-to-r from-orange-400 to-pink-400" : "bg-gradient-to-r from-teal-500 to-blue-600"}`}>
@@ -130,7 +128,7 @@ const Resume = ({ isDarkMode }: ResumeProps) => {
 
         <div className="relative">
           <div
-            className={`absolute left-8 md:left-1/2 transform md:-translate-x-px h-full w-0.5 ${
+            className={`absolute left-4 md:left-1/2 transform md:-translate-x-px h-full w-0.5 ${
               isDarkMode
                 ? "bg-gradient-to-b from-orange-400 to-pink-500"
                 : "bg-gradient-to-b from-teal-500 to-blue-600"
@@ -152,7 +150,7 @@ const Resume = ({ isDarkMode }: ResumeProps) => {
                 } flex-col md:gap-16`}
               >
                 <div
-                  className={`absolute left-8 md:left-1/2 transform -translate-x-1/2 w-4 h-4 rounded-full border-4 border-orange-400 z-10 ${
+                  className={`absolute left-4 md:left-1/2 transform -translate-x-1/2 w-4 h-4 rounded-full border-4 border-orange-400 z-10 ${
                     isDarkMode ? "bg-orange-950" : "bg-white"
                   }`}
                 />
@@ -160,7 +158,7 @@ const Resume = ({ isDarkMode }: ResumeProps) => {
                 <div
                   className={`flex-1 ${
                     index % 2 === 0 ? "md:text-right md:pr-16" : "md:pl-16"
-                  } pl-20 md:pl-0`}
+                  } pl-12 md:pl-0`}
                 >
                   <motion.div
                     whileHover={{ scale: 1.02 }}
@@ -217,7 +215,7 @@ const Resume = ({ isDarkMode }: ResumeProps) => {
             className={`rounded-2xl p-8 text-white ${isDarkMode ? "bg-gradient-to-r from-orange-500 to-pink-500" : "bg-gradient-to-r from-teal-500 to-blue-600"}`}
           >
             <h3 className="text-3xl font-bold mb-6 text-center">Core Competencies</h3>
-            <div className="grid md:grid-cols-3 gap-6">
+            <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
               {[
                 { title: "Programming Languages", skills: ["Advanced Python", "JavaScript"] },
                 { title: "Tech Stack", skills: ["Flask", "FastAPI", "REST APIs"] },

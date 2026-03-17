@@ -62,7 +62,7 @@ const Projects = ({ isDarkMode }: ProjectsProps) => {
         >
           <motion.h2
             variants={cardVariants}
-            className={`text-5xl font-bold mb-6 ${isDarkMode ? "text-orange-100" : "text-gray-900"}`}
+            className={`text-3xl sm:text-5xl font-bold mb-6 ${isDarkMode ? "text-orange-100" : "text-gray-900"}`}
           >
             My{" "}
             <span className={`text-transparent bg-clip-text ${isDarkMode ? "bg-gradient-to-r from-orange-400 to-pink-400" : "bg-gradient-to-r from-teal-500 to-blue-600"}`}>
@@ -153,7 +153,7 @@ const Projects = ({ isDarkMode }: ProjectsProps) => {
             className={`rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto ${isDarkMode ? "bg-orange-950" : "bg-white"}`}
             onClick={(e) => e.stopPropagation()}
           >
-            <div className="p-8">
+            <div className="p-4 sm:p-8">
               <div className="flex justify-between items-start mb-6">
                 <div>
                   <h3 className={`text-3xl font-bold mb-2 ${isDarkMode ? "text-orange-100" : "text-gray-900"}`}>

@@ -47,7 +47,7 @@ const Navigation = ({ isDarkMode, toggleDarkMode }: NavigationProps) => {
         <div className="flex items-center justify-between h-20">
           <motion.div whileHover={{ scale: 1.05 }} className="flex items-center">
             <img src={meImage} alt="DhatchinaMoorthy P" className={`w-12 h-12 rounded-full object-cover border-2 ${isDarkMode ? "border-orange-400" : "border-teal-400"}`} />
-            <span className={`ml-3 text-xl font-bold ${isDarkMode ? "text-orange-100" : "text-gray-900"}`}>
+            <span className={`ml-3 text-base sm:text-xl font-bold truncate max-w-[160px] sm:max-w-none ${isDarkMode ? "text-orange-100" : "text-gray-900"}`}>
               DhatchinaMoorthy P
             </span>
           </motion.div>

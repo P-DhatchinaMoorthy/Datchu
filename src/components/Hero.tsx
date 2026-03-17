@@ -75,7 +75,7 @@ const Hero = ({ isDarkMode }: HeroProps) => {
           className="mb-6"
         >
           <motion.h1
-            className={`text-6xl md:text-8xl font-bold text-transparent bg-clip-text mb-4 ${
+            className={`text-4xl sm:text-6xl md:text-8xl font-bold text-transparent bg-clip-text mb-4 ${
               isDarkMode
                 ? "bg-gradient-to-r from-orange-300 via-pink-300 to-orange-300"
                 : "bg-gradient-to-r from-teal-600 via-blue-600 to-teal-600"
@@ -101,7 +101,7 @@ const Hero = ({ isDarkMode }: HeroProps) => {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.6 }}
-          className={`text-xl md:text-2xl mb-8 max-w-2xl mx-auto leading-relaxed ${
+          className={`text-base sm:text-xl md:text-2xl mb-8 max-w-2xl mx-auto leading-relaxed ${
             isDarkMode ? "text-orange-100" : "text-gray-700"
           }`}
         >
@@ -116,7 +116,7 @@ const Hero = ({ isDarkMode }: HeroProps) => {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 1 }}
-          className="flex justify-center gap-6 mb-12"
+          className="flex flex-wrap justify-center gap-3 sm:gap-6 mb-12"
         >
           {[
             { icon: Github, href: "https://github.com/P-DhatchinaMoorthy", label: "GitHub" },
